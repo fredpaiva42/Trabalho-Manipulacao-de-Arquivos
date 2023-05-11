@@ -1,0 +1,3 @@
+C:/Users/fredm/OneDrive/UFF/Trabalho_Manipulacao_Arq/cmake-build-debug/CMakeFiles/Trabalho_Manipulacao_Arq.dir
+C:/Users/fredm/OneDrive/UFF/Trabalho_Manipulacao_Arq/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/fredm/OneDrive/UFF/Trabalho_Manipulacao_Arq/cmake-build-debug/CMakeFiles/rebuild_cache.dir
